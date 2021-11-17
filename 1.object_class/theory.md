@@ -1,5 +1,5 @@
 Lập trình hướng thủ tục và hướng đối tượng
- * Lập trình hướng thủ tục
+ * * Lập trình hướng thủ tục
   - Giải quyết vấn đề từng bước đến khi đạt yêu cầu
   - Lập trình từ trên xuống
   - Lập trình theo hàm -> chỉ tạo ra hàm xử lý khi gặp vấn đề nào đó
