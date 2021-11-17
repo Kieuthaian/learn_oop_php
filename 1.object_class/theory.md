@@ -11,7 +11,7 @@ Lập trình hướng thủ tục và hướng đối tượng
   - Tạo ra các chương trình có tính mềm dẻo và linh động cao
   - Dễ dàng phát triển, bảo trì và nâng cấp
  
-  * Phân biệt Class và Object
+  * * Phân biệt Class và Object
   - Class chỉ một cái gì đó chung chung, object là một cái cụ thể
   Ví dụ:
   + Công thức làm bánh quy là một Class -> bánh quy là một object
